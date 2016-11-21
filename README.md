@@ -1,2 +1,2 @@
 # menu-scraper
-Python web-scraper for UMass Dinning Hall menus
+Python web-scraper for UMass Dining Hall menus
